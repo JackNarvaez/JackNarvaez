@@ -1,10 +1,11 @@
-### Hi there 👋
+### Hi there! 👋 welcome to my GitHub corner
 
 ## ✌ About Me
 - **Current Position:** Undergraduate physics student at National University of Colombia
 - **Research Interests:** Computational astrophysics, accretion disks, celestial mechanics.
+- **Get in Touch:** <janarvaez@unal.edu.co>
 
-## Languages
+## 🖥 Languages
 
 <div style="height: fit-content; padding-top: 5px">
   
@@ -29,7 +30,7 @@
 </div><br>
 
 
- ## Packages and Tools
+ ## 🛠 Packages and Tools
  <div style="height: fit-content; padding-top: 5px">
 
 <a href="https://github.com/" target="_blank">
@@ -57,3 +58,6 @@
 </a>
 
 </div><br/><br/>
+
+# 📊 Statistics
+> ![Edo's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackNarvaez&hide=jupyter%20notebook&layout=donut&theme=dracula)
