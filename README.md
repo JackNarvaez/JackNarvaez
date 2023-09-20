@@ -57,6 +57,10 @@
   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Gnu-nano.svg/1200px-Gnu-nano.svg.png" title="Nano">
 </a>
 
+<a href="https://tiswww.case.edu/php/chet/bash/bashtop.html" target="_blank">
+  <img height="40" src="https://tiswww.case.edu/php/chet/img/bash-logo-web.png" title="Bash">
+</a>
+
 </div><br>
 
 ## 📊 Statistics
