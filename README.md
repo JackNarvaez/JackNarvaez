@@ -1,8 +1,8 @@
-### Hi there! 👋 welcome to my GitHub corner
+## Hi there! 👋 welcome to my GitHub corner
 
 ## ✌ About Me
 - **Current Position:** Undergraduate physics student at National University of Colombia
-- **Research Interests:** Computational astrophysics, accretion disks, celestial mechanics.
+- **Research Interests:** Computational astrophysics, accretion disks, celestial mechanics, numerical relativity.
 - **Get in Touch:** <janarvaez@unal.edu.co>
 
 ## 🖥 Languages
@@ -57,7 +57,12 @@
   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Gnu-nano.svg/1200px-Gnu-nano.svg.png" title="Nano">
 </a>
 
-</div><br/><br/>
+</div><br>
 
-# 📊 Statistics
+## 📊 Statistics
 > ![Edo's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackNarvaez&hide=jupyter%20notebook&layout=donut&theme=dracula)
+<br>
+
+## 🌟 Together We Shine
+
+Thank you for taking the time to visit my profile and delve into my projects! I hope you've enjoyed your exploration. I'm continually diving deeper into the fascinating world of computational astrophysics 🌌. I enjoy learning new things and discussing ideas, so please feel free to send me an email if you would like to provide feedback, collaborate, or say hello.  I'd be delighted to receive your email. Let's embark on this cosmic journey together! 🚀
