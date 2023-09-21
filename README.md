@@ -61,6 +61,10 @@
   <img height="40" src="https://tiswww.case.edu/php/chet/img/bash-logo-web.png" title="Bash">
 </a>
 
+<a href="https://www.linux.org/" target="_blank">
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" title="Linux">
+</a>
+
 </div><br>
 
 ## 📊 Statistics
