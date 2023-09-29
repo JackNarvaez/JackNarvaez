@@ -1,7 +1,7 @@
 ## Hi there! 👋 welcome to my GitHub corner
 
 ## ✌ About Me
-- **Current Position:** Undergraduate physics student at National University of Colombia
+- **Current Position:** Undergraduate physics student at Universidad Nacional de Colombia
 - **Research Interests:** Computational astrophysics, accretion disks, celestial mechanics, numerical relativity.
 - **Get in Touch:** <janarvaez@unal.edu.co>
 
