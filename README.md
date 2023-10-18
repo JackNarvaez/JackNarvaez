@@ -68,7 +68,9 @@
 </div><br>
 
 ## 📊 Statistics
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackNarvaez&hide=jupyter%20notebook&layout=donut&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JackNarvaez&hide=jupyter%20notebook&layout=donut&theme=dracula)
+
+![Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JackNarvaez&theme=github_dark)
 <br>
 
 ## 🌟 Together We Shine
