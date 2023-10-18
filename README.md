@@ -68,7 +68,7 @@
 </div><br>
 
 ## 📊 Statistics
-> ![Edo's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackNarvaez&hide=jupyter%20notebook&layout=donut&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackNarvaez&hide=jupyter%20notebook&layout=donut&theme=dracula)
 <br>
 
 ## 🌟 Together We Shine
