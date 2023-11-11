@@ -7,11 +7,12 @@
 
 ## 🖥 Languages
 
-<div style="height: fit-content; padding-top: 5px">
-  
+<div style="clear:left; height: fit-content; padding-top: 5px">
+
 <a href="https://python.org/" target="_blank">
-  <img height="40" src="https://cdn.simpleicons.org/python" title="Python">
+  <img height="40" src="https://cdn.simpleicons.org/python" title="Python" >
 </a>
+
 <a href="https://julialang.org/" target="_blank">
   <img height="40" src="https://julialang.org/assets/infra/logo.svg" title="Julia">
 </a>
@@ -24,11 +25,15 @@
   <img height="40" src="https://isocpp.org/assets/images/cpp_logo.png" title="C/C++">
 </a>
 
+<a href="https://fortran-lang.org/" target="_blank">
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fortran_logo.svg/800px-Fortran_logo.svg.png" title="Fortran">
+</a>
+
 <a href="https://www.iso.org/standard/76583.html" target="_blank">
   <img height="40" src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" title="SQL">
 </a>
-</div><br>
-
+</div>
+<br>
 
  ## 🛠 Packages and Tools
  <div style="height: fit-content; padding-top: 5px">
