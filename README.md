@@ -2,7 +2,7 @@
 
 ## ✌ About Me
 - **Current Position:** Undergraduate physics student at Universidad Nacional de Colombia
-- **Research Interests:** Computational astrophysics, accretion disks, celestial mechanics, numerical relativity.
+- **Research Interests:** Computational astrophysics, hydrodynamic simulations, accretion disks, celestial mechanics, numerical relativity.
 - **Get in Touch:** <janarvaez@unal.edu.co>
 
 ## 🖥 Languages
