@@ -1,9 +1,9 @@
 ## Hi there! 👋 welcome to my GitHub corner
 
 ## ✌ About Me
-- **Current Position:** Undergraduate physics student at Universidad Nacional de Colombia
-- **Research Interests:** Computational astrophysics, hydrodynamic simulations, accretion disks, celestial mechanics, numerical relativity.
-- **Get in Touch:** <janarvaez@unal.edu.co>
+- **Current Position:** M.Sc. student in Scientific Computing at Memorial University of Newfoundland
+- **Research Interests:** Computational astrophysics, hydrodynamic simulations, accretion disks, celestial mechanics, numerical relativity, high performance computing
+- **Get in Touch:** <jjnarvaezcor@mun.ca>
 
 ## 🖥 Languages
 
