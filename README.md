@@ -2,7 +2,7 @@
 
 ## ✌ About Me
 - **Current Position:** M.Sc. student in Scientific Computing at Memorial University of Newfoundland
-- **Research Interests:** Computational astrophysics, hydrodynamic simulations, accretion disks, celestial mechanics, numerical relativity, high performance computing
+- **Research Interests:** Computational astrophysics, hydrodynamic simulations, accretion disks, planet formation, celestial mechanics, numerical relativity, high performance computing
 - **Get in Touch:** <jjnarvaezcor@mun.ca>
 
 ## 🖥 Languages
